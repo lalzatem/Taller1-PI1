@@ -91,6 +91,9 @@ DATABASES = {
         'PASSWORD': 'yadAHO70',                  
         'HOST': 'pi1-eafit-bd.mysql.database.azure.com',                     
         'PORT': '3306',
+        'OPTIONS': {
+            'ssl': {'ca': '/var/www/html/BaltimoreCyberTrustRoot.crt.pem'}
+        }
     }
 }
 
