@@ -1,0 +1,19 @@
+{
+    "name": "bootstrap",
+    "version": "5.4.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lalzatem/Taller1PI1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lalzatem/Taller1PI1/issues"
+    },
+    "homepage": "https://github.com/lalzatem/Taller1PI1#readme"
+}
